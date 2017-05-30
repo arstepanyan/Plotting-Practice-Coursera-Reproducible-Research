@@ -1,12 +1,11 @@
 # Plotting Practice
 
 This repository is created for the Coursera Reproducible Research course's optional plotting assignment.  
-It contains following 5 files
+It contains following 4 files
 1. README.md (current document)
 1. plot1.pdf 
 2. plot2.pdf 
 3. plotting_code.R 
-4. plotting_data.R
 
 * Plot1 show the relationship between mean covered charges (Average.Covered.Charges) and mean total payments (Average.Total.Payments) in New York. Plot2 shows the relationship between mean covered charges (Average.Covered.Charges) and mean total payments (Average.Total.Payments) by medical condition (DRG.Definition) and the state in which care was received (Provider.State). both plots are logarithmically scaled for better results as on the original plots data are very skewed. 
 
