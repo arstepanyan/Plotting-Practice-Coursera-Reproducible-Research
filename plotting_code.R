@@ -22,7 +22,7 @@ with(medical_data[medical_data$Provider.State == "NY",],
 abline(lm(Average.Total.Payments ~ Average.Covered.Charges, data = medical_data),
        col = rgb(0,0.4,0.1), untf = TRUE, lwd = 2)
 
-title(main = "Average Covered Charges and Average Total Payments \nRelationship", 
+title(main = "Average Covered Charges and Average Total Payments \nRelationship in New York", 
       col.main = colorRampPalette(c("red", "green", "blue"))(10)[8], cex = 1.5)
 
 ## Add text to the figure indicating that plotting is done on log/log scale.
