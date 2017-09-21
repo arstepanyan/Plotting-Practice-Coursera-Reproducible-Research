@@ -7,7 +7,7 @@ It contains following 4 files
 2. plot2.pdf 
 3. plotting_code.R 
 
-* Plot1 show the relationship between mean covered charges (Average.Covered.Charges) and mean total payments (Average.Total.Payments) in New York. Plot2 shows the relationship between mean covered charges (Average.Covered.Charges) and mean total payments (Average.Total.Payments) by medical condition (DRG.Definition) and the state in which care was received (Provider.State). both plots are logarithmically scaled for better results as on the original plots data are very skewed. 
+* Plot1 shows the relationship between mean covered charges (Average.Covered.Charges) and mean total payments (Average.Total.Payments) in New York. Plot2 shows the relationship between mean covered charges (Average.Covered.Charges) and mean total payments (Average.Total.Payments) by medical condition (DRG.Definition) and the state in which care was received (Provider.State). both plots are logarithmically scaled for better results as on the original plots data are very skewed. 
 
 * Plotting_code.R contains both the R script and comments to explain how the code works.
 
